@@ -35,10 +35,14 @@ a:active {
 	color:#88F;
 	}
   
+.menu-bar {
+	font-size:  24px;	
+}
 
 footer { 
     display: block;
 }
+
 div {
 	padding: 10px;
 }
