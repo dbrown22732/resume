@@ -1,7 +1,6 @@
 html {
-	/*background-image: url(../images/outer-space1.jpg);*/
-	background-color: rgba(50,50,50,.8);
-	background-repeat: repeat-y;
+	
+	
 }
 
 .TitleAndCentered {
@@ -15,7 +14,9 @@ body,td,th {
 }
 
 body {
-	
+	/*background-image: url(../images/outer-space1.jpg);*/
+	background-color: rgba(50,50,50,.8);
+	background-repeat: repeat-y;
 }
 
 a:link {
