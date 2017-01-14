@@ -1,0 +1,37 @@
+.TitleAndCentered {
+	text-align: center;
+}
+
+body,td,th {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: rgba(255,255,255,1);
+	font-size: 16px;
+}
+
+body {
+	background-color: rgba(0,0,0,1);
+	background-repeat: repeat-y;
+	background-image: url(images/outer-space1.jpg);
+}
+
+a:link {
+	color:#0F0;
+	} 
+  
+a:visited {
+	color:#F0F;
+	}
+  
+a:hover {
+	color:#AAA;
+	} 
+  
+a:active {
+	color:#88F;
+	}
+  
+.main {
+	width: 80%;
+	position: relative;
+	float:inherit;
+}
