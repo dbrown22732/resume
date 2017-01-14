@@ -46,6 +46,7 @@ a:active {
 	float:inherit;
 	background-color: rgba(0,0,0,.75);
 	padding: 10px;
+	border-radius: 25px;
 }
 
 
@@ -57,3 +58,4 @@ footer {
 div {
 	padding: 4px, 10px, 4px, 10px;
 }
+
