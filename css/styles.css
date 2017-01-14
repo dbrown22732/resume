@@ -16,6 +16,7 @@ body,td,th {
 body {
 	background-image: url(../images/space_bg.jpg);
 	background-color: rgba(0,0,0,1);
+	background-size: cover;
 	background-repeat: repeat-y;
 }
 
