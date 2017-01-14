@@ -41,14 +41,17 @@ a:active {
 }
 
 .main {
-	width: 80%;
+	width: 90%;
 	position: relative;
-	float:inherit;
+	margin: auto;
 	background-color: rgba(0,0,0,.5);
 	padding: 10px;
 	border-radius: 25px;
 }
 
+table{
+	width:80%;
+}
 
 footer { 
     display: block;
