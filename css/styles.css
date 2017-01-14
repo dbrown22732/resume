@@ -14,8 +14,8 @@ body,td,th {
 }
 
 body {
-	/*background-image: url(../images/outer-space1.jpg);*/
-	background-color: rgba(50,50,50,.8);
+	background-image: url(../images/outer-space1.jpg);
+	background-color: rgba(0,0,0,1);
 	background-repeat: repeat-y;
 }
 
