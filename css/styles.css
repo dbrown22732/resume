@@ -54,6 +54,11 @@ table{
 	table-layout: auto;
 }
 
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
 footer { 
     display: block;
 	font-size:10px;
