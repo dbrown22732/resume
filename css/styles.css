@@ -53,6 +53,7 @@ a:active {
 table{
 	width:80%;
 	table-layout: auto;
+	
 }
 
 th, td {
@@ -61,7 +62,7 @@ th, td {
 }
 
 header {
-		
+	float: left;	
 }
 
 footer { 
