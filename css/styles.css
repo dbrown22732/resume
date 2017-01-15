@@ -37,7 +37,8 @@ a:active {
 	}
   
 .menu-bar {
-	font-size:  24px;	
+	font-size:  24px;
+	padding-left: 100px;
 }
 
 .main {
@@ -56,7 +57,11 @@ table{
 
 th, td {
     padding: 15px;
-    text-align: left;
+    text-align: center;
+}
+
+header {
+		
 }
 
 footer { 
