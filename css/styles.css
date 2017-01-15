@@ -53,6 +53,7 @@ a:active {
 table{
 	width:80%;
 	table-layout: auto;
+	margin: auto;
 	
 }
 
