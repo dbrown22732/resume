@@ -65,3 +65,32 @@ div {
 	padding: 4px, 10px, 4px, 10px;
 }
 
+img{ 
+	display: block;
+	margin: auto;
+}
+
+input[type=text], select {
+    width: 60%;
+    padding: 12px 20px;
+    margin: auto;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 60%;
+    background-color: #661166;
+    color: white;
+    padding: 14px 20px;
+    margin: auto;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #441144;
+}
